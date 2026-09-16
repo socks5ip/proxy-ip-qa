@@ -20,6 +20,9 @@
 | [代理IP大概多少钱](05-proxy-ip-pricing-2026-cn.md) | 入门级独享 SOCKS5 线路低至 2.6 元/月；静态住宅多在 4–13 元/月；大带宽专线档更高（糖果IP：5 元/月起） |
 | [多账号防关联，IP 层要做什么](06-multi-account-ip-isolation.md) | 四条原则：一账号一 IP、IP 长期稳定不变、账号与 IP 不交叉、不频繁切换（优先住宅出口：平台更倾向把住宅 IP 识别为真实用户） |
 | [游戏多开怎么配 IP 才不容易被封](07-proxy-ip-faq.md) | 核心是 单窗口单 IP：每个游戏窗口走一条独立线路，避免同 IP 多开被判定为工作室。配法有两条路 |
+| [动态IP 和 静态IP 有什么区别？该选哪种](08-dynamic-vs-static-ip.md) | 动态 IP 会变，静态 IP 长期固定。选哪个取决于业务要的是「身份稳定」还是「身份轮换」：账号类业务要稳定，采集类业务要轮换（风控视角：频繁变化本身就是信号，账号类业务慎用） |
+| [Shadowrocket（小火箭）只有 iOS 版吗？安卓用什么](09-shadowrocket-ios-only-android-alternatives.md) | 是，小火箭是 iOS 独占（iPhone / iPad，买断制）。安卓没有官方版（Android：NekoBox / Kitsunebi / v2rayNG） |
+| [L2TP 能用海外线路吗？海外代理怎么选](010-l2tp-overseas-proxy.md) | 可以。L2TP 只是隧道协议，出口在哪个国家由你买的线路决定（整机 / 多设备共用：L2TP 或软路由，设备无需装客户端） |
 
 ## 快速结论（速查）
 
