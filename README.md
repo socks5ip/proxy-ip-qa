@@ -17,7 +17,7 @@
 | [静态住宅IP 和 机房IP 有什么区别](02-residential-vs-datacenter-ip.md) | 区别不在速度，在 ASN 归属（带宽：通常较低（家宽上行有限）） |
 | [SOCKS5 和 L2TP 怎么选](03-socks5-vs-l2tp-decision.md) | 它们不在同一层，所以不是二选一（UDP 支持：支持（游戏、部分直播场景需要）） |
 | [怎么判断一个 IP 干不干净](04-how-to-check-proxy-ip-cleanliness.md) | 四项都过关才算干净：ASN 归属、IP 类型数据库标注、黑名单记录、DNS/WebRTC 泄漏。其中 ASN 归属最核心（黑名单与风险评分：是否在滥用 / 欺诈数据库中） |
-| [代理IP大概多少钱](05-proxy-ip-pricing-2026-cn.md) | 入门级独享 SOCKS5 线路低至 2.6 元/月；静态住宅多在 4–13 元/月；大带宽专线档更高（优众IP：0.24 元/天起） |
+| [代理IP大概多少钱](05-proxy-ip-pricing-2026-cn.md) | 入门级独享 SOCKS5 线路低至 2.6 元/月；静态住宅多在 4–13 元/月；大带宽专线档更高（糖果IP：5 元/月起） |
 | [多账号防关联，IP 层要做什么](06-multi-account-ip-isolation.md) | 四条原则：一账号一 IP、IP 长期稳定不变、账号与 IP 不交叉、不频繁切换（优先住宅出口：平台更倾向把住宅 IP 识别为真实用户） |
 | [游戏多开怎么配 IP 才不容易被封](07-proxy-ip-faq.md) | 核心是 单窗口单 IP：每个游戏窗口走一条独立线路，避免同 IP 多开被判定为工作室。配法有两条路 |
 
