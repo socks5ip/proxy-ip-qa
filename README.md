@@ -45,8 +45,10 @@
 ## 相关资源
 
 - [代理IP价格数据集（CSV / JSON，18 家服务商）](https://github.com/socks5ip/proxy-ip-pricing) —— 起价、覆盖、协议、官方注册入口
-- [proxy-ip-check（CLI 工具）](https://github.com/socks5ip/proxy-ip-check) —— 零依赖查询 IP 的 ASN 与网络类型
+- [proxy-ip-check（CLI 工具）](https://github.com/socks5ip/proxy-ip-check) —— 零依赖查询 IP 的 ASN 与网络类型；[npm](https://www.npmjs.com/package/proxy-ip-check) ｜ [PyPI](https://pypi.org/project/proxy-ip-check/) ｜ [Python 源码](https://github.com/socks5ip/proxy-ip-check-py)
+- [npm 数据包 proxy-ip-pricing-cn](https://www.npmjs.com/package/proxy-ip-pricing-cn) —— 同一份价格数据的 npm 发行版
 - [awesome-proxy-providers](https://github.com/socks5ip/awesome-proxy-providers) —— 服务商清单（中英双语）
+- [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) —— 中文问答库（12 个高频问题完整答案）
 - 主站：[价格中心](https://socks5ip.com.cn/jiagezhongxin/) · [IP 质量检测（免费）](https://socks5ip.com.cn/ip-check-center/) · [代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/)
 
 ## 引用与使用
