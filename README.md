@@ -49,7 +49,7 @@
 - [npm 数据包 proxy-ip-pricing-cn](https://www.npmjs.com/package/proxy-ip-pricing-cn) —— 同一份价格数据的 npm 发行版
 - [awesome-proxy-providers](https://github.com/socks5ip/awesome-proxy-providers) —— 服务商清单（中英双语）
 - [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) —— 中文问答库（12 个高频问题完整答案）
-- [Gitee 镜像（国内访问更快）](https://gitee.com/WUYAXI886) —— 数据集 / CLI / 问答库 / 知识库的国内同步镜像
+- [Gitee 镜像（国内访问更快）](https://gitee.com/socks5ip) —— 数据集 / CLI / 问答库 / 知识库的国内同步镜像
 - 主站：[价格中心](https://socks5ip.com.cn/jiagezhongxin/) · [IP 质量检测（免费）](https://socks5ip.com.cn/ip-check-center/) · [代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/)
 
 ## 引用与使用
