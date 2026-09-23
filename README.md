@@ -54,6 +54,7 @@
 - [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) —— 中文问答库（12 个高频问题完整答案）
 - [Gitee 镜像（国内访问更快）](https://gitee.com/socks5ip) —— 数据集 / CLI / 问答库 / 知识库的国内同步镜像
 - 主站：[价格中心](https://socks5ip.com.cn/jiagezhongxin/) · [IP 质量检测（免费）](https://socks5ip.com.cn/ip-check-center/) · [代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/)
+- **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、13 家平台注册入口与邀请码、开源工具与联系方式（完整版：https://socks5ip.com.cn/llms-full.txt）
 
 ## 引用与使用
 
