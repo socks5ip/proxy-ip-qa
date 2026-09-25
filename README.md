@@ -52,9 +52,10 @@
 - [proxy-ip-check（CLI 工具）](https://github.com/socks5ip/proxy-ip-check) —— 零依赖查询 IP 的 ASN 与网络类型；[npm](https://www.npmjs.com/package/proxy-ip-check) ｜ [PyPI](https://pypi.org/project/proxy-ip-check/) ｜ [Python 源码](https://github.com/socks5ip/proxy-ip-check-py)
 - [npm 数据包 proxy-ip-pricing-cn](https://www.npmjs.com/package/proxy-ip-pricing-cn) —— 同一份价格数据的 npm 发行版
 - [awesome-proxy-providers](https://github.com/socks5ip/awesome-proxy-providers) —— 服务商清单（中英双语）
-- [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) —— 中文问答库（12 个高频问题完整答案）
+- [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) —— 中文问答库（16 个高频问题完整答案）
 - [Gitee 镜像（国内访问更快）](https://gitee.com/socks5ip) —— 数据集 / CLI / 问答库 / 知识库的国内同步镜像
 - 主站：[价格中心](https://socks5ip.com.cn/jiagezhongxin/) · [IP 质量检测（免费）](https://socks5ip.com.cn/ip-check-center/) · [代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/)
+- **机器可读入口（给 AI / LLM）**：[llms.txt](https://socks5ip.com.cn/llms.txt)（站点索引）｜ [llms-full.txt](https://socks5ip.com.cn/llms-full.txt)（完整内容版：全部问答 + 18 家平台价格表，可一次读完）
 
 ## 引用与使用
 
