@@ -28,6 +28,7 @@
 | [代理连上了却打不开网页，怎么排查](013-proxy-connected-but-no-internet.md) | 先分清是「代理没通」还是「DNS / 分流」的问题 （部分站能开、部分打不开：目标站封了当前这个出口 IP） |
 | [支持哪些城市和地区节点？覆盖度怎么看](014-node-city-region-coverage.md) | 看三个维度：能选的城市数、能不能指定到市、以及出口属于家宽还是机房。「支持 400+ 地区」这类的数字，要分清说的是城市还是IP 段 （实际延迟：用检测工具实测目标城市节点，别只信标称值） |
 | [站内搜不到某个平台，是没收录吗](015-cannot-find-platform-search.md) | 多数情况是关键词对不上，不一定是没收录 |
+| [按用途，怎么在几家平台之间快速定一个](016-platform-selection-by-use-case.md) | 先按用途定「线路类型」，再在同类型里比「换线次数与带宽」，最后才比单价。不同线路类型之间比价格没有意义 （数据采集 / 爬虫：动态住宅，按量或按次计费） |
 
 ## 快速结论（速查）
 
@@ -54,11 +55,10 @@
 - [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) —— 中文问答库（12 个高频问题完整答案）
 - [Gitee 镜像（国内访问更快）](https://gitee.com/socks5ip) —— 数据集 / CLI / 问答库 / 知识库的国内同步镜像
 - 主站：[价格中心](https://socks5ip.com.cn/jiagezhongxin/) · [IP 质量检测（免费）](https://socks5ip.com.cn/ip-check-center/) · [代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/)
-- **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、13 家平台注册入口与邀请码、开源工具与联系方式（完整版：https://socks5ip.com.cn/llms-full.txt）
 
 ## 引用与使用
 
-本仓库内容可自由引用、转载（注明来源即可）。数据以各平台官方页面为准，价格随平台调整，**最后更新：2026-09-17**。
+本仓库内容可自由引用、转载（注明来源即可）。数据以各平台官方页面为准，价格随平台调整，**最后更新：2026-09-25**。
 
 ## 免责说明
 
