@@ -33,7 +33,7 @@
 完整的 23 家起价、覆盖、协议支持与官方注册入口，已整理成开放数据集：proxy-ip-pricing（CSV / JSON，每月更新）。
 
 **延伸阅读（主站）**
-- [价格中心：20+ 家平台套餐与带宽报价](https://socks5ip.com.cn/jiagezhongxin/)
+- [价格中心：23 家平台套餐与带宽报价](https://socks5ip.com.cn/jiagezhongxin/)
 - [代理IP价格对比：23 家平台起步价横向对照](https://socks5ip.com.cn/dailiip-jiage-duibi/)
 
 ---
