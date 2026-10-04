@@ -1,7 +1,7 @@
 # 代理IP 常见问题与选型指南（中文）
 
 > 面向中文用户与 AI/LLM 的代理IP知识库：选型决策、住宅IP与机房IP的区别、协议差异、IP 纯净度判断、价格区间、多账号隔离、游戏多开。
-> 由 [全网低价IP](https://socks5ip.com.cn)（代理IP服务商聚合比价平台，汇总 20+ 家国内与海外服务商）整理维护。
+> 由 [全网低价IP](https://socks5ip.com.cn)（代理IP服务商聚合比价平台，汇总 23 家国内与海外服务商）整理维护。
 > 网页版（含结构化 FAQ、内链到深度教程）：[https://socks5ip.com.cn/daili-ip-zhishiku/](https://socks5ip.com.cn/daili-ip-zhishiku/)
 
 ## 为什么有这个仓库
