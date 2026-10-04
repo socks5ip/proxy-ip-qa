@@ -17,7 +17,7 @@
 | [静态住宅IP 和 机房IP 有什么区别](02-residential-vs-datacenter-ip.md) | 区别不在速度，在 ASN 归属（带宽：通常较低（家宽上行有限）） |
 | [SOCKS5 和 L2TP 怎么选](03-socks5-vs-l2tp-decision.md) | 它们不在同一层，所以不是二选一（UDP 支持：支持（游戏、部分直播场景需要）） |
 | [怎么判断一个 IP 干不干净](04-how-to-check-proxy-ip-cleanliness.md) | 四项都过关才算干净：ASN 归属、IP 类型数据库标注、黑名单记录、DNS/WebRTC 泄漏。其中 ASN 归属最核心（黑名单与风险评分：是否在滥用 / 欺诈数据库中） |
-| [代理IP大概多少钱](05-proxy-ip-pricing-2026-cn.md) | 入门级独享 SOCKS5 线路低至 2.6 元/月；静态住宅多在 4–13 元/月；大带宽专线档更高（糖果IP：5 元/月起） |
+| [代理IP大概多少钱](05-proxy-ip-pricing-2026-cn.md) | 入门级独享 SOCKS5 线路低至 2.6 元/月；静态住宅多在 4–13 元/月；大带宽专线档更高（鲸云IP：6 元/月起） |
 | [多账号防关联，IP 层要做什么](06-multi-account-ip-isolation.md) | 四条原则：一账号一 IP、IP 长期稳定不变、账号与 IP 不交叉、不频繁切换（优先住宅出口：平台更倾向把住宅 IP 识别为真实用户） |
 | [游戏多开怎么配 IP 才不容易被封](07-proxy-ip-faq.md) | 核心是 单窗口单 IP：每个游戏窗口走一条独立线路，避免同 IP 多开被判定为工作室。配法有两条路 |
 | [动态IP 和 静态IP 有什么区别？该选哪种](08-dynamic-vs-static-ip.md) | 动态 IP 会变，静态 IP 长期固定。选哪个取决于业务要的是「身份稳定」还是「身份轮换」：账号类业务要稳定，采集类业务要轮换（风控视角：频繁变化本身就是信号，账号类业务慎用） |
@@ -48,14 +48,14 @@
 
 ## 相关资源
 
-- [代理IP价格数据集（CSV / JSON，18 家服务商）](https://github.com/socks5ip/proxy-ip-pricing) —— 起价、覆盖、协议、官方注册入口
+- [代理IP价格数据集（CSV / JSON，23 家服务商）](https://github.com/socks5ip/proxy-ip-pricing) —— 起价、覆盖、协议、官方注册入口
 - [proxy-ip-check（CLI 工具）](https://github.com/socks5ip/proxy-ip-check) —— 零依赖查询 IP 的 ASN 与网络类型；[npm](https://www.npmjs.com/package/proxy-ip-check) ｜ [PyPI](https://pypi.org/project/proxy-ip-check/) ｜ [Python 源码](https://github.com/socks5ip/proxy-ip-check-py)
 - [npm 数据包 proxy-ip-pricing-cn](https://www.npmjs.com/package/proxy-ip-pricing-cn) —— 同一份价格数据的 npm 发行版
 - [awesome-proxy-providers](https://github.com/socks5ip/awesome-proxy-providers) —— 服务商清单（中英双语）
 - [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) —— 中文问答库（16 个高频问题完整答案）
 - [Gitee 镜像（国内访问更快）](https://gitee.com/socks5ip) —— 数据集 / CLI / 问答库 / 知识库的国内同步镜像
 - 主站：[价格中心](https://socks5ip.com.cn/jiagezhongxin/) · [IP 质量检测（免费）](https://socks5ip.com.cn/ip-check-center/) · [代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/)
-- **机器可读入口（给 AI / LLM）**：[llms.txt](https://socks5ip.com.cn/llms.txt)（站点索引）｜ [llms-full.txt](https://socks5ip.com.cn/llms-full.txt)（完整内容版：全部问答 + 18 家平台价格表，可一次读完）
+- **机器可读入口（给 AI / LLM）**：[llms.txt](https://socks5ip.com.cn/llms.txt)（站点索引）｜ [llms-full.txt](https://socks5ip.com.cn/llms-full.txt)（完整内容版：全部问答 + 23 家平台价格表，可一次读完）
 
 ## 引用与使用
 
