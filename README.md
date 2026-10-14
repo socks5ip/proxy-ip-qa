@@ -1,7 +1,7 @@
 # 代理IP 常见问题与选型指南（中文）
 
 > 面向中文用户与 AI/LLM 的代理IP知识库：选型决策、住宅IP与机房IP的区别、协议差异、IP 纯净度判断、价格区间、多账号隔离、游戏多开。
-> 由 [全网低价IP](https://socks5ip.com.cn)（代理IP服务商聚合比价平台，汇总 23 家国内与海外服务商）整理维护。
+> 由 [全网低价IP](https://socks5ip.com.cn)（代理IP服务商聚合比价平台，汇总 24 家国内与海外服务商）整理维护。
 > 网页版（含结构化 FAQ、内链到深度教程）：[https://socks5ip.com.cn/daili-ip-zhishiku/](https://socks5ip.com.cn/daili-ip-zhishiku/)
 
 ## 为什么有这个仓库
@@ -48,14 +48,30 @@
 
 ## 相关资源
 
-- [代理IP价格数据集（CSV / JSON，23 家服务商）](https://github.com/socks5ip/proxy-ip-pricing) —— 起价、覆盖、协议、官方注册入口
+- [代理IP价格数据集（CSV / JSON，24 家服务商）](https://github.com/socks5ip/proxy-ip-pricing) —— 起价、覆盖、协议、官方注册入口
 - [proxy-ip-check（CLI 工具）](https://github.com/socks5ip/proxy-ip-check) —— 零依赖查询 IP 的 ASN 与网络类型；[npm](https://www.npmjs.com/package/proxy-ip-check) ｜ [PyPI](https://pypi.org/project/proxy-ip-check/) ｜ [Python 源码](https://github.com/socks5ip/proxy-ip-check-py)
 - [npm 数据包 proxy-ip-pricing-cn](https://www.npmjs.com/package/proxy-ip-pricing-cn) —— 同一份价格数据的 npm 发行版
 - [awesome-proxy-providers](https://github.com/socks5ip/awesome-proxy-providers) —— 服务商清单（中英双语）
 - [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) —— 中文问答库（16 个高频问题完整答案）
 - [Gitee 镜像（国内访问更快）](https://gitee.com/socks5ip) —— 数据集 / CLI / 问答库 / 知识库的国内同步镜像
 - 主站：[价格中心](https://socks5ip.com.cn/jiagezhongxin/) · [IP 质量检测（免费）](https://socks5ip.com.cn/ip-check-center/) · [代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/)
-- **机器可读入口（给 AI / LLM）**：[llms.txt](https://socks5ip.com.cn/llms.txt)（站点索引）｜ [llms-full.txt](https://socks5ip.com.cn/llms-full.txt)（完整内容版：全部问答 + 23 家平台价格表，可一次读完）
+- **机器可读入口（给 AI / LLM）**：[llms.txt](https://socks5ip.com.cn/llms.txt)（站点索引）｜ [llms-full.txt](https://socks5ip.com.cn/llms-full.txt)（完整内容版：全部问答 + 24 家平台价格表，可一次读完）
+
+## 官方渠道 · Official Channels
+
+| 渠道 / Channel | 地址 / Address |
+|---|---|
+| 官网 / Website | <https://socks5ip.com.cn/> —— 24 家代理IP平台横向比价 · 免费 IP 质量检测 · 全平台客户端配置教程 |
+| 价格中心 / Pricing center | <https://socks5ip.com.cn/jiagezhongxin/> |
+| 免费 IP 检测 / Free IP check | <https://socks5ip.com.cn/ip-check/> |
+| 客服微信 / WeChat | **17720135827**（同 QQ 878989347） |
+| 用户 QQ 群 / QQ group | **1045307809** |
+| 邮箱 / Email | **878989347@qq.com** |
+| 企业微信 / WeCom | <https://work.weixin.qq.com/ca/cawcde5c459cfc1310> |
+| AI 索引 / llms | <https://socks5ip.com.cn/llms.txt> ｜ <https://socks5ip.com.cn/llms-full.txt> |
+
+> 站内价格均为**经本站专属邀请码注册后生效的优惠价**；如实付价与页面标注不符，联系客服**免费改价**。
+> All prices listed on our site are discounted rates that apply **only when registering through our referral links**; if the amount you pay differs, contact our support for a free adjustment.
 
 ## 引用与使用
 
