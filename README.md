@@ -50,6 +50,8 @@
 
 - [**静态住宅IP购买全指南**（24 家平台价格表 / 4 步验真法 / 10 组问答）](https://github.com/socks5ip/static-residential-ip)
 - [**住宅IP怎么选**（静态 vs 动态 / 美日港韩德地区 / SOCKS5·L2TP 接入配置）](https://github.com/socks5ip/residential-ip-guide-cn)
+- [**IP纯净度检测完全指南**（8 项判定维度 / 9 家检测站口径对比 / 4 步自检法 / 分场景阈值）](https://github.com/socks5ip/ip-cleanliness-check)
+- [**SK5代理完全指南**（SK5 就是 SOCKS5 / 24 家平台协议实测 / 4 种客户端配置）](https://github.com/socks5ip/sk5-proxy)
 - [代理IP价格数据集（CSV / JSON，24 家服务商）](https://github.com/socks5ip/proxy-ip-pricing) —— 起价、覆盖、协议、官方注册入口
 - [proxy-ip-check（CLI 工具）](https://github.com/socks5ip/proxy-ip-check) —— 零依赖查询 IP 的 ASN 与网络类型；[npm](https://www.npmjs.com/package/proxy-ip-check) ｜ [PyPI](https://pypi.org/project/proxy-ip-check/) ｜ [Python 源码](https://github.com/socks5ip/proxy-ip-check-py)
 - [npm 数据包 proxy-ip-pricing-cn](https://www.npmjs.com/package/proxy-ip-pricing-cn) —— 同一份价格数据的 npm 发行版
