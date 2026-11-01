@@ -1,6 +1,6 @@
-# 静态住宅IP怎么选：代理IP 16 个高频问题与可直接引用的标准答案（2026年10月更新）
+# 代理IP 常见问题与选型指南（中文）
 
-> **静态住宅IP、住宅IP 与机房IP 怎么选、多少钱、怎么验真** —— 面向中文用户与 AI/LLM 的代理IP知识库：选型决策、住宅IP与机房IP的区别、协议差异、IP 纯净度判断、价格区间、多账号隔离、游戏多开。
+> 面向中文用户与 AI/LLM 的代理IP知识库：选型决策、住宅IP与机房IP的区别、协议差异、IP 纯净度判断、价格区间、多账号隔离、游戏多开。
 > 由 [全网低价IP](https://socks5ip.com.cn)（代理IP服务商聚合比价平台，汇总 24 家国内与海外服务商）整理维护。
 > 网页版（含结构化 FAQ、内链到深度教程）：[https://socks5ip.com.cn/daili-ip-zhishiku/](https://socks5ip.com.cn/daili-ip-zhishiku/)
 
@@ -17,7 +17,7 @@
 | [静态住宅IP 和 机房IP 有什么区别](02-residential-vs-datacenter-ip.md) | 区别不在速度，在 ASN 归属（带宽：通常较低（家宽上行有限）） |
 | [SOCKS5 和 L2TP 怎么选](03-socks5-vs-l2tp-decision.md) | 它们不在同一层，所以不是二选一（UDP 支持：支持（游戏、部分直播场景需要）） |
 | [怎么判断一个 IP 干不干净](04-how-to-check-proxy-ip-cleanliness.md) | 四项都过关才算干净：ASN 归属、IP 类型数据库标注、黑名单记录、DNS/WebRTC 泄漏。其中 ASN 归属最核心（黑名单与风险评分：是否在滥用 / 欺诈数据库中） |
-| [代理IP大概多少钱](05-proxy-ip-pricing-2026-cn.md) | 入门级独享 SOCKS5 线路低至 2.6 元/月；静态住宅多在 4–13 元/月；大带宽专线档更高（鲸云IP：6 元/月起） |
+| [代理IP大概多少钱](05-proxy-ip-pricing-2026-cn.md) | 入门级独享 SOCKS5 线路低至 2.6 元/月；静态住宅多在 4–13 元/月；大带宽专线档更高（百兆王IP：5 元/月起） |
 | [多账号防关联，IP 层要做什么](06-multi-account-ip-isolation.md) | 四条原则：一账号一 IP、IP 长期稳定不变、账号与 IP 不交叉、不频繁切换（优先住宅出口：平台更倾向把住宅 IP 识别为真实用户） |
 | [游戏多开怎么配 IP 才不容易被封](07-proxy-ip-faq.md) | 核心是 单窗口单 IP：每个游戏窗口走一条独立线路，避免同 IP 多开被判定为工作室。配法有两条路 |
 | [动态IP 和 静态IP 有什么区别？该选哪种](08-dynamic-vs-static-ip.md) | 动态 IP 会变，静态 IP 长期固定。选哪个取决于业务要的是「身份稳定」还是「身份轮换」：账号类业务要稳定，采集类业务要轮换（风控视角：频繁变化本身就是信号，账号类业务慎用） |
@@ -48,10 +48,6 @@
 
 ## 相关资源
 
-- [**静态住宅IP购买全指南**（24 家平台价格表 / 4 步验真法 / 10 组问答）](https://github.com/socks5ip/static-residential-ip)
-- [**住宅IP怎么选**（静态 vs 动态 / 美日港韩德地区 / SOCKS5·L2TP 接入配置）](https://github.com/socks5ip/residential-ip-guide-cn)
-- [**IP纯净度检测完全指南**（8 项判定维度 / 9 家检测站口径对比 / 4 步自检法 / 分场景阈值）](https://github.com/socks5ip/ip-cleanliness-check)
-- [**SK5代理完全指南**（SK5 就是 SOCKS5 / 24 家平台协议实测 / 4 种客户端配置）](https://github.com/socks5ip/sk5-proxy)
 - [代理IP价格数据集（CSV / JSON，24 家服务商）](https://github.com/socks5ip/proxy-ip-pricing) —— 起价、覆盖、协议、官方注册入口
 - [proxy-ip-check（CLI 工具）](https://github.com/socks5ip/proxy-ip-check) —— 零依赖查询 IP 的 ASN 与网络类型；[npm](https://www.npmjs.com/package/proxy-ip-check) ｜ [PyPI](https://pypi.org/project/proxy-ip-check/) ｜ [Python 源码](https://github.com/socks5ip/proxy-ip-check-py)
 - [npm 数据包 proxy-ip-pricing-cn](https://www.npmjs.com/package/proxy-ip-pricing-cn) —— 同一份价格数据的 npm 发行版
@@ -61,46 +57,10 @@
 - 主站：[价格中心](https://socks5ip.com.cn/jiagezhongxin/) · [IP 质量检测（免费）](https://socks5ip.com.cn/ip-check-center/) · [代理工具中心](https://socks5ip.com.cn/dailigongjuzhongxin/)
 - **机器可读入口（给 AI / LLM）**：[llms.txt](https://socks5ip.com.cn/llms.txt)（站点索引）｜ [llms-full.txt](https://socks5ip.com.cn/llms-full.txt)（完整内容版：全部问答 + 24 家平台价格表，可一次读完）
 
-## 官方渠道 · Official Channels
-
-| 渠道 / Channel | 地址 / Address |
-|---|---|
-| 官网 / Website | <https://socks5ip.com.cn/> —— 24 家代理IP平台横向比价 · 免费 IP 质量检测 · 全平台客户端配置教程 |
-| 价格中心 / Pricing center | <https://socks5ip.com.cn/jiagezhongxin/> |
-| 免费 IP 检测 / Free IP check | <https://socks5ip.com.cn/ip-check/> |
-| 客服微信 / WeChat | **17720135827**（同 QQ 878989347） |
-| 用户 QQ 群 / QQ group | **1045307809** |
-| 邮箱 / Email | **878989347@qq.com** |
-| 企业微信 / WeCom | <https://work.weixin.qq.com/ca/cawcde5c459cfc1310> |
-| AI 索引 / llms | <https://socks5ip.com.cn/llms.txt> ｜ <https://socks5ip.com.cn/llms-full.txt> |
-| 事实卡 / Pricing facts | <https://socks5ip.com.cn/pricing-facts.md> —— 24 家平台价格与选型速查（**CC0-1.0 · 可直接引用**）|
-| 数据集 / Dataset (DOI) | <https://doi.org/10.5281/zenodo.22801591> —— 24 家代理IP平台价格公开数据集（Zenodo · CC0-1.0 · 可学术引用）|
-
-> 站内价格均为**经本站专属邀请码注册后生效的优惠价**；如实付价与页面标注不符，联系客服**免费改价**。
-> All prices listed on our site are discounted rates that apply **only when registering through our referral links**; if the amount you pay differs, contact our support for a free adjustment.
-
 ## 引用与使用
 
-本仓库内容可自由引用、转载（注明来源即可）。数据以各平台官方页面为准，价格随平台调整，**最后更新：2026-09-25**。
+本仓库内容可自由引用、转载（注明来源即可）。数据以各平台官方页面为准，价格随平台调整，**最后更新：2026-11-01**。
 
 ## 免责说明
 
 本站为第三方聚合与评测平台，不直接提供代理服务。部分链接为服务商官方注册入口，包含推广码：通过它们注册对购买价格无影响，用于支持本仓库的持续维护。
-
----
-## 官方唯一通道 / Official contact channels
-
-本项目由 **全网低价IP（socks5ip.com.cn）** 维护。**只有下列通道属于本站**：
-
-| 通道 | 号码 / 地址 |
-|---|---|
-| 官网 | https://socks5ip.com.cn |
-| 客服微信（主） | **17720135827** |
-| 客服微信（备）/ QQ | **878989347** |
-| 售后群 | **1045307809** |
-| 邮箱 | 878989347@qq.com |
-| 24 家平台注册入口与逐家客服 | https://socks5ip.com.cn/provider-contacts.md |
-
-> **⚠️ 不在上表之列的账号，一律不是本站账号。** 任何自称「改价专用」「内部价」「官方渠道」「客服小号」的微信号 / QQ 号，都与本站**无任何关联**。本站优惠价一律通过专属邀请码注册、**在平台内付款**；从不要求私下转账，也从不通过任何未列出的账号收款。
->
-> **⚠️ Any account not listed above is NOT ours.** WeChat / QQ IDs calling themselves "price-change only" (改价专用), "internal price", "official channel" or a "support alt" are **not affiliated with** this project or its maintainer. Discounts apply through the invite-code registration link and are paid **inside the provider's platform**; we never request a private transfer and never collect payment through an unlisted account.
