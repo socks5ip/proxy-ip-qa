@@ -14,9 +14,9 @@
 
 **延伸阅读（主站）**
 - [价格中心：各家平台档位与单价横向对照](https://socks5ip.com.cn/jiagezhongxin/)
-- [代理IP免费测试怎么领（23 家试用方式）](https://socks5ip.com.cn/mianfeiceshi/)
+- [代理IP免费测试怎么领（24 家试用方式）](https://socks5ip.com.cn/mianfeiceshi/)
 - [IP 检测中心：先测质量再下单](https://socks5ip.com.cn/ip-check-center/)
 
 ---
 
-> 本文来自 [全网低价IP](https://socks5ip.com.cn)（代理IP服务商聚合比价平台）。价格与政策以各平台官方页面为准，最后更新：2026-09-25。
+> 本文来自 [全网低价IP](https://socks5ip.com.cn)（代理IP服务商聚合比价平台）。价格与政策以各平台官方页面为准，最后更新：2026-11-01。
