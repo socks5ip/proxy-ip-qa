@@ -15,8 +15,9 @@
 
 **延伸阅读（主站）**
 - [2026 年静态住宅IP代理横向评测与选购建议](https://socks5ip.com.cn/zuixinzixun/2026nianjingtaizhuzhaiip/)
+- [静态住宅IP推荐与购买：哪家好、独享与纯净怎么分](https://socks5ip.com.cn/jingtaizhuzhaiip/)
 - [IP 检测中心：ASN 归属 / IP 类型 / 线路质量免费查](https://socks5ip.com.cn/ip-check-center/)
 
 ---
 
-> 本文来自 [全网低价IP](https://socks5ip.com.cn)（代理IP服务商聚合比价平台）。价格与政策以各平台官方页面为准，最后更新：2026-09-25。
+> 本文来自 [全网低价IP](https://socks5ip.com.cn)（代理IP服务商聚合比价平台）。价格与政策以各平台官方页面为准，最后更新：2026-11-01。
